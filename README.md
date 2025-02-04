@@ -1,6 +1,6 @@
 # CSS Basics - Exemplos para Iniciantes (feito por outro iniciante ;P)
 
-Este projeto oferece exemplos práticos para ajudar iniciantes a aprender CSS, com uma abordagem visual inspirada no estilo único de Persona 4 (só porque eu gosto muito mesmo desse jogo), como fontes, cores, layouts e animações. Aqui, você encontrará exemplos simples e explicações detalhadas para entender os conceitos básicos dessa linguagem de estilo.
+Este projeto oferece exemplos práticos para ajudar iniciantes a aprender CSS, com uma abordagem visual inspirada no estilo único de Persona 4 (só porque eu gosto muito mesmo desse jogo), como fontes, cores e layouts. Aqui, você encontrará exemplos simples e explicações detalhadas para entender os conceitos básicos dessa linguagem de estilo.
 
 ## Descrição
 
