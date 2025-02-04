@@ -1,0 +1,427 @@
+ body {
+     background-image: url(src/image/yu\ narukami.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+
+
+
+ }
+
+ .boxh1 {
+     border: 5px solid;
+     border-color: #f3ee4c;
+     background: linear-gradient(to left, #939EA0, lightyellow);
+     margin-left: auto;
+     margin-right: auto;
+     font-family: "persona4", sans-serif;
+     font-size: 35px;
+     color: black;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     border-radius: 5px;
+     margin-top: auto;
+
+
+ }
+
+ .pato {
+     font-family: "persona4", sans-serif;
+     font-size: 35px;
+     display: inline;
+     padding-left: 1350px;
+ }
+
+ p {
+     font-family: "persona4", sans-serif;
+     font-size: 25px;
+     color: white;
+ }
+
+ li {
+     font-family: "persona4", sans-serif;
+     font-size: 25px;
+     color: white;
+ }
+
+ .index3 {
+     border: 5px groove;
+     border-color: #f3ee4c;
+     font-family: "persona4", sans-serif;
+     font-size: 40px;
+     color: black;
+     background: linear-gradient(to left, #939EA0, lightyellow);
+     margin-top: 60px;
+     padding-right: 2%;
+     text-align: center;
+     border-radius: 5px;
+     text-decoration-line: none;
+
+
+ }
+
+ .index2 {
+     border: 5px groove;
+     border-color: #f3ee4c;
+     font-family: "persona4", sans-serif;
+     font-size: 40px;
+     color: black;
+     background: linear-gradient(to right, #939EA0, lightyellow);
+     margin-top: 60px;
+     padding-right: 2%;
+     text-align: center;
+     border-radius: 5px;
+     text-decoration-line: none;
+
+
+ }
+
+ .pindex {
+     border: 5px groove;
+     border-color: #f3ee4c;
+     font-family: "persona4", sans-serif;
+     font-size: 25px;
+     color: black;
+     background: linear-gradient(to left, #939EA0, lightyellow);
+     padding-right: 2%;
+     text-align: center;
+     border-radius: 5px;
+     width: 250px;
+     margin-top: 15px;
+
+
+ }
+
+ a:hover {
+     color: #f3ee4c;
+ }
+
+ a:active {
+     color: white;
+ }
+
+ .index {
+     float: left;
+     width: 300px;
+ }
+
+ .index2:hover {
+     padding-right: 70px;
+ }
+
+ .index3:hover {
+     padding-right: 50px;
+ }
+
+ .pindex:hover {
+     color: #f3ee4c;
+ }
+
+ .pindex a {
+     display: block;
+     width: 100%;
+ }
+
+ a {
+     text-decoration: none;
+     color: black;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*CSS basic tutorial*/
+ .h1 {
+     color: white;
+ }
+
+ #p1 {
+     color: aqua;
+     background-color: gray;
+     width: 300px;
+     font-family: "persona4", sans-serif;
+     border: #f3ee4c solid;
+     border-radius: 5px;
+
+ }
+
+ .p2 {
+     color: yellow;
+     background-color: gray;
+     width: 300px;
+     font-family: "persona4", sans-serif;
+     border: #f3ee4c solid;
+     border-radius: 5px;
+ }
+
+ /*fonte e borda tutorial*/
+ .font {
+     font-family: "consolas", sans-serif;
+
+     color: black;
+     border-top-style: dotted;
+     border-bottom-style: dotted;
+     border-left-style: double;
+     border-left-color: silver;
+     border-right-style: double;
+     width: 500px;
+ }
+
+ .font2 {
+     font-family: "press start 2p", "consolas", sans-serif;
+     color: black;
+     background: linear-gradient(to left, lightgrey, lightyellow);
+     font-style: italic;
+     font-weight: bold;
+     text-decoration: gold underline;
+     font-size: 18px;
+     width: 500px;
+ }
+
+ .font2 {
+     border-style: outset;
+     border-width: 5px;
+     border-color: gold;
+     border-radius: 10px;
+     padding: 10px;
+ }
+
+ /*background tutorial*/
+ .background {
+     background-image: url(src/image/yu\ narukami.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     background-size: 100%;
+ }
+
+ .h1background {
+     background: linear-gradient(to left, skyblue, lightgreen);
+     background-repeat: no-repeat;
+     width: 500px;
+ }
+
+ .pbackground {
+     background: linear-gradient(to left, lightgrey, lightyellow);
+     background-repeat: no-repeat;
+     width: 500px;
+     border: #f3ee4c solid;
+     border-radius: 5px;
+     text-align: center;
+     color: black;
+ }
+
+ /*margin tutorial*/
+ #box1 {
+     border: 5px solid;
+     background-color: lightgreen;
+     border: #f3ee4c solid;
+     border-radius: 5px;
+     width: 250px;
+     height: 320px;
+     font-size: 22px;
+     padding: 10px;
+     margin-top: 20px;
+     /*
+            margin-top: 50px;
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-bottom: 50px;
+
+            margin: 50px;
+            */
+     margin-left: auto;
+     font-family: "persona4", sans-serif;
+ }
+
+ #box2 {
+     border: 5px solid;
+     background-color: skyblue;
+     width: 250px;
+     height: 320px;
+     font-size: 22px;
+     padding: 10px;
+     border: #f3ee4c solid;
+     border-radius: 5px;
+
+     margin-right: auto;
+     font-family: "persona4", sans-serif;
+ }
+
+ .margin {
+     margin: 8px;
+ }
+
+ /*float tutorial*/
+
+ .img {
+     float: left
+ }
+
+ .pfloat {
+     max-width: 1100px;
+     overflow-wrap: break-word;
+     margin-top: auto;
+     font-family: "persona4", sans-serif;
+
+ }
+ /*se vc quiser cancelar o float, é so usar a tag clear mais a direção do float*/
+ /*
+        .pfloat {
+            clear: right;
+        
+        }
+        */
+
+ /*position tutorial*/
+
+ #position {
+     border: 1px solid;
+     height: 300px;
+     width: 300px;
+     background-color: skyblue;
+     position: relative;
+     left: 250px;
+     /*outras posiçoes: sticky: Faz com que o elemento "grude" em uma posição específica dentro de seu contêiner pai quando o usuário rola a página, e fixed: Faz com que um elemento seja posicionado em relação à janela de visualização (viewport) e permaneça fixo nessa posição mesmo quando o usuário rola a página.*/
+ }
+
+ #position2 {
+     border: 1px solid;
+     height: 100px;
+     width: 100px;
+     background-color: lightgreen;
+     position: absolute;
+     top: 100px;
+     left: 100px;
+ }
+
+ /*pseudo-classes tutorial*/
+ .pseudoA:link {
+     color: lightgreen;
+ }
+
+ .pseudoA:visited {
+     color: lightblue;
+ }
+
+ .pseudoA:hover {
+     color: tomato;
+ }
+
+ .pseudoA:active {
+     color: yellow;
+ }
+
+ .pseudoB:hover {
+     background-color: lightgrey;
+ }
+
+ .pseudoB:active {
+     background-color: white;
+ }
+
+ .pseudoA {
+     font-size: 30px;
+     font-family: "persona4", sans-serif;
+     margin-right: 10px;
+ }
+
+ .pseudoB {
+     font-size: 25px;
+     font-family: "persona4", sans-serif;
+ }
+
+ .pseudoLI {
+     font-size: 25px;
+     font-family: "persona4", sans-serif;
+ }
+
+ /*
+        .pseudoLI:nth-child(2){
+            background-color: tomato;
+            width: 100px;
+        }
+
+        .pseudoLI:nth-child(odd){
+            background-color: tomato;
+            width: 100px;
+        }
+        .pseudoLI:nth-child(even){
+            background-color: lightgreen;
+            width: 100px;
+        }
+            */
+ /*outra forma de fazer : usando  um numero "x" mais n, ex:3n, vc pode selecionar apenas os numeros multiplos desse numero, alem disso se vc adiciar + algum numero, ex: + 2x vc vai começar essa sequencia apartir do numero selecionado*/
+ .pseudoLI:nth-child(2n+2) {
+     background-color: tomato;
+     width: 100px;
+ }
+
+ /*Shadows tutorial*/
+ .Shadowh1 {
+     /*text-shadow: Z/H-shadow Y/V-shadow blur-radius color;*/
+     text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+     background: linear-gradient(to left, lightgrey, lightyellow);
+     width: 300px;
+     padding: 50px;
+     border: #f3ee4c 5px solid;
+     border-radius: 5px;
+ }
+
+ .Shadowh1:hover {
+     /*box-shadow: Z/H-shadow Y/V-shadow blur-radius color;*/
+     box-shadow: 5px 5px 7px black;
+     width: 300px;
+ }
+
+ /*Icons tutorial*/
+ i {
+     font-size: 75px;
+     padding: 10px;
+ }
+
+ .fa-twitter {
+     color: lightblue;
+ }
+
+ .fa-youtube {
+     color: red;
+ }
+
+ .fa-house {
+     color: palevioletred;
+     position: relative;
+     bottom: 9px;
+ }
+
+ /*Transforms tutorial*/
+ #transf {
+     border: 4px solid;
+     width: 250px;
+     height: 250px;
+     background-color: lightgreen;
+     font-size: 150px;
+     text-align: center;
+     position: relative;
+     top: 100px;
+
+     transform: translateX(100px);
+     transform: translatey(50px);
+     transform: translate(100px);
+     transform: rotateX(180deg);
+     transform: rotateY(180deg);
+     transform: rotate(180deg);
+     transform: scalex(2);
+     transform: scaley(2);
+     transform: skewX(45deg);
+     transform: skewY(45deg);
+ }
